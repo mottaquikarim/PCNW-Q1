@@ -12,3 +12,5 @@ const avgTwoNumbers = (a,b) => {
     return (a+b) / 2;
 }
 console.log(avgTwoNumbers(2,3));
+console.log(avgTwoNumbers(5,5));
+console.log(avgTwoNumbers(5,3));

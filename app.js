@@ -14,6 +14,7 @@ const avgTwoNumbers = (a, b) => {
    }
         return "please input two numbers"
 }
+console.log(avgTwoNumbers(1, 2));
 console.log(avgTwoNumbers(10, 12));
 console.log( avgTwoNumbers("apples", "oranges"));
 console.log( avgTwoNumbers(1000, "oranges"));

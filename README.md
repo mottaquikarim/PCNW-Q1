@@ -20,3 +20,22 @@
 
 5. Push your branch to your fork
 6. Open PR
+
+// Decloration function
+function avgTwoNumbers (number1, number2) {
+return (number1 + number2) / 2
+};
+
+console.log(avgTwoNumbers(5, 7));
+
+// Express Function / Anonomous function
+
+const avgTwoNumbers = function (number1, number2) {
+return (number1 + number2) / 2
+};
+
+// Fat Arrow Function 
+
+const avgTwoNumbers = (number1, number2) => (number1 + number2) / 2
+
+

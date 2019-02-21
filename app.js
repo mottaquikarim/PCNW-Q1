@@ -8,7 +8,7 @@
   @example avgTwoNumbers(1,2); // 1.5
 */
 
-const avgTwoNumbers (a,b) = => {
+const avgTwoNumbers = (a,b)  => {
     return a + b / 2
 }
 console.log(avgTwoNumbers(5,7))
